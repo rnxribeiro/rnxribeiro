@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor Front-End`**
 
-Me chamo Renan de Camargo Ribeiro, tenho 20 anos e sou natural de Sorocaba - SP. Concluí o ensino médio no SESI, com o curso técnico em informática. Atualmente, estou cursando Bacharelado em Tecnologia da Informação na UNIVESP. Busco constantemente evoluir minhas habilidades técnicas e ampliar meus conhecimentos em desenvolvimento front-end e engenharia de software, sempre com foco em criar soluções eficientes e gerar impacto positivo através da tecnologia.
+Me chamo Renan de Camargo Ribeiro, tenho 20 anos e sou natural de Sorocaba - SP. Atualmente, estou cursando Bacharelado em Tecnologia da Informação na UNIVESP. Busco constantemente evoluir minhas habilidades técnicas e ampliar meus conhecimentos em desenvolvimento front-end e engenharia de software, sempre com foco em criar soluções eficientes e gerar impacto positivo através da tecnologia.
 
 ---
 
