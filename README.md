@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Renan Ribeiro
 
-**`Desenvolvedor Front-End em formação`**
+**`Desenvolvedor Front-End`**
 
 ## 🧠 Sobre mim
 Me chamo Renan de Camargo Ribeiro, tenho 20 anos e sou natural de Sorocaba - SP. Atualmente, estou cursando Bacharelado em Tecnologia da Informação na UNIVESP.  Tenho experiência em ambientes colaborativos, resolução de problemas e desenvolvimento de soluções com foco em criatividade, organização e melhoria contínua.
@@ -73,7 +73,7 @@ Busco constantemente evoluir minhas habilidades técnicas e ampliar meus conheci
     title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img 
     align="left" 
@@ -81,5 +81,5 @@ Busco constantemente evoluir minhas habilidades técnicas e ampliar meus conheci
     title="Photoshop"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
