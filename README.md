@@ -18,5 +18,5 @@ Busco constantemente evoluir minhas habilidades técnicas e ampliar meus conheci
 ---
 
 ### 🤖 Linguagens e Tecnologias
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,git,github,figma" />
 
